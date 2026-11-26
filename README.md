@@ -13,11 +13,11 @@
 
 <br/>
 
-![Nexo Screenshot Preview](nexo_test.png)
-![nexo_test1](nexo_test1.png)
-![nexo_test2](nexo_test2.png)
-![nexo_test3](nexo_test3.png)
-![nexo_test4](nexo_test4.png)
+![Nexo Screenshot Preview](src/nexo_test.png)
+![nexo_test1](src/nexo_test1.png)
+![nexo_test2](src/nexo_test2.png)
+![nexo_test3](src/nexo_test3.png)
+![nexo_test4](src/nexo_test4.png)
 
 </div>
 
