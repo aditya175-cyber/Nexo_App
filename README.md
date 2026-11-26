@@ -13,13 +13,9 @@
 
 <br/>
 
-![Nexo Screenshot Preview](nexo_test.png)
+![Nexo Screenshot Preview](nexo_test.png)![Nexo Screenshot Preview](nexo_test1.png)![Nexo Screenshot Preview](nexo_test2.png)![Nexo Screenshot Preview](nexo_test3.png)![Nexo Screenshot Preview](nexo_test4.png)
 
 <br/>
-
-| nexo_test1 | nexo_test2 | nexo_test3 | nexo_test4 |
-|:---:|:---:|:---:|:---:|
-| ![](nexo_test1.png) | ![](nexo_test2.png) | ![](nexo_test3.png) | ![](nexo_test4.png) |
 
 </div>
 
