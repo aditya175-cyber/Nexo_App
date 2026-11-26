@@ -11,6 +11,10 @@
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-ED1C24?style=flat)](#license)
 
+<br/>
+
+![Nexo Screenshot Preview](nexo_test.png)
+
 </div>
 
 ---
